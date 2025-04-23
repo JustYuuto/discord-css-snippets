@@ -1,6 +1,10 @@
 # Discord CSS Snippets
 
-## Remove Discord clans
+Some Discord CSS snippets that you can use for differents things.
+
+## ---
+
+### Remove Discord clans
 
 Removes Discord clans from profiles, in members list, and in messages list.
 
